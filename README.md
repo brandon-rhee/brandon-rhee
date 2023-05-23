@@ -3,7 +3,7 @@ I'm Brandon, a data-driven product intern. I have a strong focus on identifying 
 
 I have expereience in query optimization and data analysis. I am passionate about creating and developing data insights to help firms understand their data. 
 
-📽️Projects 
+📽️ Projects 
 Portfolio where I showcase my projects. 
 
 <!--
