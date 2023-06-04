@@ -1,13 +1,14 @@
 ### Hi there 👋
 I'm Brandon, a data-driven product intern. I have a strong focus on identifying customer needs through data and leveraging produt insights to drive strategic decision-making. 
 
-I have expereience in query optimization and data analysis. I am passionate about creating and developing data insights to help firms understand their data. 
+I have expereience in running SQL queries and data analysis. I am passionate about creating and developing data insights to help firms understand their data. I Led multiple data projects from start to finish, creating literature review, defining data methodologies, and breaking down complex problems into manageable tasks. 
 
+<!--
 📽️ Projects 
 
 Portfolio where I showcase my projects. 
 
-<!--
+
 **brandon-rhee/brandon-rhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
