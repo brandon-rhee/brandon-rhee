@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Brandon, a data-driven product intern. I have a strong focus on identifying customer needs through data and leveraging produt insights to drive strategic decision-making. 
+I'm Brandon, a data-driven product analyst. I have a strong focus on identifying customer needs through data and leveraging produt insights to drive strategic decision-making. 
 
 I have expereience in running SQL queries and data analysis. I am passionate about creating and developing data insights to help firms understand their data. I led multiple data projects from start to finish, creating literature review, defining data methodologies, and breaking down complex problems into manageable tasks. 
 
